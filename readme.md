@@ -1,7 +1,7 @@
 # 🏏 Cricket SQL Database Management System
 
 A PostgreSQL database project designed to manage cricket tournaments, teams, players, matches, batting scorecards, bowling scorecards, player awards, and umpires.
-
+![Team Standings]("screenshots/queries/team_standings.png")
 This project demonstrates SQL concepts ranging from basic queries to advanced analytics using JOINs, GROUP BY, Subqueries, CTEs, and Window Functions.
 
 ---
